@@ -3,7 +3,7 @@ import sockets
 
 
 host  = '127.0.0.1'
-port = '99872'
+port = '55555'
 
 
 server = socket.socket(socket.AF_INET. socket.SOCK_STREAM, socket.SOCK_STREAM)
